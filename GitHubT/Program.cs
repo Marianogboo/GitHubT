@@ -10,7 +10,9 @@ namespace GitHubT
     {
         static void Main(string[] args)
         {
+            //testing
             var me = "Hakeem";
+            Console.WriteLine(me);
         }
     }
 }
